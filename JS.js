@@ -1,7 +1,7 @@
 var word =prompt("¿Cuál es tu palabra?")
-//var word= function(str);
-//var str.slice();
-//console.log(word(str));
+var word= function(str);
+var str.slice();
+console.log(word(str));
 
 //var word =prompt("¿Cuál es tu palabra?")
 //var word= function(str){
